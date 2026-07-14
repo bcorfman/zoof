@@ -1,0 +1,929 @@
+id: project-mr884746-auz8tq
+audio:
+  sounds:
+    simulacra-chosic-com:
+      id: simulacra-chosic-com
+      source:
+        kind: path
+        path: assets/demo-pack/audio/Simulacra-chosic.com_.mp3
+        mimeType: audio/mpeg
+        originalName: Simulacra-chosic.com_.mp3
+    sb-indreams-chosic-com:
+      id: sb-indreams-chosic-com
+      source:
+        kind: path
+        path: assets/demo-pack/audio/sb_indreams(chosic.com).mp3
+        mimeType: audio/mpeg
+        originalName: sb_indreams(chosic.com).mp3
+    punch-deck-the-soul-crushing-monotony-of-isolation-instrumental-mix-chosic-com:
+      id: punch-deck-the-soul-crushing-monotony-of-isolation-instrumental-mix-chosic-com
+      source:
+        kind: path
+        path: assets/demo-pack/audio/punch-deck-the-soul-crushing-monotony-of-isolation-instrumental-mix(chosic.com).mp3
+        mimeType: audio/mpeg
+        originalName: punch-deck-the-soul-crushing-monotony-of-isolation-instrumental-mix(chosic.com).mp3
+title: Pattern Demo
+assets:
+  fonts: {}
+  images:
+    enemy-a:
+      id: enemy-a
+      name: enemy_A
+      width: 64
+      height: 64
+      source:
+        kind: path
+        path: assets/demo-pack/images/enemy_A.png
+        mimeType: image/png
+        originalName: enemy_A.png
+    enemy-b:
+      id: enemy-b
+      name: enemy_B
+      width: 64
+      height: 64
+      source:
+        kind: path
+        path: assets/demo-pack/images/enemy_B.png
+        mimeType: image/png
+        originalName: enemy_B.png
+    enemy-c:
+      id: enemy-c
+      name: enemy_C
+      width: 64
+      height: 64
+      source:
+        kind: path
+        path: assets/demo-pack/images/enemy_C.png
+        mimeType: image/png
+        originalName: enemy_C.png
+    enemy-d:
+      id: enemy-d
+      name: enemy_D
+      width: 64
+      height: 64
+      source:
+        kind: path
+        path: assets/demo-pack/images/enemy_D.png
+        mimeType: image/png
+        originalName: enemy_D.png
+    enemy-e:
+      id: enemy-e
+      name: enemy_E
+      width: 64
+      height: 64
+      source:
+        kind: path
+        path: assets/demo-pack/images/enemy_E.png
+        mimeType: image/png
+        originalName: enemy_E.png
+    station-b:
+      id: station-b
+      name: station_B
+      width: 64
+      height: 64
+      source:
+        kind: path
+        path: assets/demo-pack/images/station_B.png
+        mimeType: image/png
+        originalName: station_B.png
+    station-c:
+      id: station-c
+      name: station_C
+      width: 64
+      height: 64
+      source:
+        kind: path
+        path: assets/demo-pack/images/station_C.png
+        mimeType: image/png
+        originalName: station_C.png
+    satellite-a:
+      id: satellite-a
+      name: satellite_A
+      width: 64
+      height: 64
+      source:
+        kind: path
+        path: assets/demo-pack/images/satellite_A.png
+        mimeType: image/png
+        originalName: satellite_A.png
+    satellite-c:
+      id: satellite-c
+      name: satellite_C
+      width: 64
+      height: 64
+      source:
+        kind: path
+        path: assets/demo-pack/images/satellite_C.png
+        mimeType: image/png
+        originalName: satellite_C.png
+    satellite-d:
+      id: satellite-d
+      name: satellite_D
+      width: 64
+      height: 64
+      source:
+        kind: path
+        path: assets/demo-pack/images/satellite_D.png
+        mimeType: image/png
+        originalName: satellite_D.png
+    ship-sidesa:
+      id: ship-sidesa
+      name: ship_sidesA
+      width: 64
+      height: 64
+      source:
+        kind: path
+        path: assets/demo-pack/images/ship_sidesA.png
+        mimeType: image/png
+        originalName: ship_sidesA.png
+    ship-sidesb:
+      id: ship-sidesb
+      name: ship_sidesB
+      width: 64
+      height: 64
+      source:
+        kind: path
+        path: assets/demo-pack/images/ship_sidesB.png
+        mimeType: image/png
+        originalName: ship_sidesB.png
+    ship-sidesc:
+      id: ship-sidesc
+      name: ship_sidesC
+      width: 64
+      height: 64
+      source:
+        kind: path
+        path: assets/demo-pack/images/ship_sidesC.png
+        mimeType: image/png
+        originalName: ship_sidesC.png
+    ship-sidesd:
+      id: ship-sidesd
+      name: ship_sidesD
+      width: 64
+      height: 64
+      source:
+        kind: path
+        path: assets/demo-pack/images/ship_sidesD.png
+        mimeType: image/png
+        originalName: ship_sidesD.png
+    meteor-large:
+      id: meteor-large
+      name: meteor_large
+      width: 64
+      height: 64
+      source:
+        kind: path
+        path: assets/demo-pack/images/meteor_large.png
+        mimeType: image/png
+        originalName: meteor_large.png
+    meteor-small:
+      id: meteor-small
+      name: meteor_small
+      width: 64
+      height: 64
+      source:
+        kind: path
+        path: assets/demo-pack/images/meteor_small.png
+        mimeType: image/png
+        originalName: meteor_small.png
+    effect-purple:
+      id: effect-purple
+      name: effect_purple
+      width: 64
+      height: 64
+      source:
+        kind: path
+        path: assets/demo-pack/images/effect_purple.png
+        mimeType: image/png
+        originalName: effect_purple.png
+    effect-yellow:
+      id: effect-yellow
+      name: effect_yellow
+      width: 64
+      height: 64
+      source:
+        kind: path
+        path: assets/demo-pack/images/effect_yellow.png
+        mimeType: image/png
+        originalName: effect_yellow.png
+    icon-pluslarge:
+      id: icon-pluslarge
+      name: icon_plusLarge
+      width: 64
+      height: 64
+      source:
+        kind: path
+        path: assets/demo-pack/images/icon_plusLarge.png
+        mimeType: image/png
+        originalName: icon_plusLarge.png
+    icon-plussmall:
+      id: icon-plussmall
+      name: icon_plusSmall
+      width: 64
+      height: 64
+      source:
+        kind: path
+        path: assets/demo-pack/images/icon_plusSmall.png
+        mimeType: image/png
+        originalName: icon_plusSmall.png
+    meteor-squarelarge:
+      id: meteor-squarelarge
+      name: meteor_squareLarge
+      width: 64
+      height: 64
+      source:
+        kind: path
+        path: assets/demo-pack/images/meteor_squareLarge.png
+        mimeType: image/png
+        originalName: meteor_squareLarge.png
+    meteor-squaresmall:
+      id: meteor-squaresmall
+      name: meteor_squareSmall
+      width: 64
+      height: 64
+      source:
+        kind: path
+        path: assets/demo-pack/images/meteor_squareSmall.png
+        mimeType: image/png
+        originalName: meteor_squareSmall.png
+    meteor-detailedlarge:
+      id: meteor-detailedlarge
+      name: meteor_detailedLarge
+      width: 64
+      height: 64
+      source:
+        kind: path
+        path: assets/demo-pack/images/meteor_detailedLarge.png
+        mimeType: image/png
+        originalName: meteor_detailedLarge.png
+    meteor-detailedsmall:
+      id: meteor-detailedsmall
+      name: meteor_detailedSmall
+      width: 64
+      height: 64
+      source:
+        kind: path
+        path: assets/demo-pack/images/meteor_detailedSmall.png
+        mimeType: image/png
+        originalName: meteor_detailedSmall.png
+    meteor-squaredetailedlarge:
+      id: meteor-squaredetailedlarge
+      name: meteor_squareDetailedLarge
+      width: 64
+      height: 64
+      source:
+        kind: path
+        path: assets/demo-pack/images/meteor_squareDetailedLarge.png
+        mimeType: image/png
+        originalName: meteor_squareDetailedLarge.png
+    meteor-squaredetailedsmall:
+      id: meteor-squaredetailedsmall
+      name: meteor_squareDetailedSmall
+      width: 64
+      height: 64
+      source:
+        kind: path
+        path: assets/demo-pack/images/meteor_squareDetailedSmall.png
+        mimeType: image/png
+        originalName: meteor_squareDetailedSmall.png
+  spriteSheets: {}
+scenes:
+  scene-1:
+    id: scene-1
+    music:
+      loop: true
+      fadeMs: 0
+      volume: 0.3
+      assetId: punch-deck-the-soul-crushing-monotony-of-isolation-instrumental-mix-chosic-com
+    world:
+      width: 800
+      height: 600
+    groups: {}
+    actions: {}
+    entities:
+      t:
+        x: 130
+        y: 120
+        id: t
+        name: Wave
+        text:
+          align: center
+          color: "#FFFFFF"
+          value: Wave
+          fontSize: 14
+        alpha: 1
+        depth: 0
+        flipX: false
+        flipY: false
+        width: 34
+        height: 17
+        scaleX: 1
+        scaleY: 1
+        originX: 0.5
+        originY: 0.5
+        visible: true
+        rotationDeg: 0
+      t-2:
+        x: 310
+        y: 120
+        id: t-2
+        name: Zigzag
+        text:
+          align: center
+          color: "#FFFFFF"
+          value: Zigzag
+          fontSize: 14
+        alpha: 1
+        depth: 0
+        flipX: false
+        flipY: false
+        width: 42
+        height: 17
+        scaleX: 1
+        scaleY: 1
+        originX: 0.5
+        originY: 0.5
+        visible: true
+        rotationDeg: 0
+      t-3:
+        x: 490
+        y: 120
+        id: t-3
+        name: Figure-8
+        text:
+          align: center
+          color: "#FFFFFF"
+          value: Figure-8
+          fontSize: 14
+        alpha: 1
+        depth: 0
+        flipX: false
+        flipY: false
+        width: 52
+        height: 17
+        scaleX: 1
+        scaleY: 1
+        originX: 0.5
+        originY: 0.5
+        visible: true
+        rotationDeg: 0
+      t-4:
+        x: 670
+        y: 120
+        id: t-4
+        name: Orbit
+        text:
+          align: center
+          color: "#FFFFFF"
+          value: Orbit
+          fontSize: 14
+        alpha: 1
+        depth: 0
+        flipX: false
+        flipY: false
+        width: 32
+        height: 17
+        scaleX: 1
+        scaleY: 1
+        originX: 0.5
+        originY: 0.5
+        visible: true
+        rotationDeg: 0
+      t-5:
+        x: 220
+        y: 340
+        id: t-5
+        name: Spiral
+        text:
+          align: center
+          color: "#FFFFFF"
+          value: Spiral
+          fontSize: 14
+        alpha: 1
+        depth: 0
+        flipX: false
+        flipY: false
+        width: 35
+        height: 17
+        scaleX: 1
+        scaleY: 1
+        originX: 0.5
+        originY: 0.5
+        visible: true
+        rotationDeg: 0
+      t-6:
+        x: 400
+        y: 340
+        id: t-6
+        name: Bounce
+        text:
+          align: center
+          color: "#FFFFFF"
+          value: Bounce
+          fontSize: 14
+        alpha: 1
+        depth: 0
+        flipX: false
+        flipY: false
+        width: 46
+        height: 17
+        scaleX: 1
+        scaleY: 1
+        originX: 0.5
+        originY: 0.5
+        visible: true
+        rotationDeg: 0
+      t-7:
+        x: 580
+        y: 340
+        id: t-7
+        name: Patrol
+        text:
+          align: center
+          color: "#FFFFFF"
+          value: Patrol
+          fontSize: 14
+        alpha: 1
+        depth: 0
+        flipX: false
+        flipY: false
+        width: 36
+        height: 17
+        scaleX: 1
+        scaleY: 1
+        originX: 0.5
+        originY: 0.5
+        visible: true
+        rotationDeg: 0
+      entity:
+        x: 130
+        y: 200
+        id: entity
+        name: Wave
+        alpha: 1
+        asset:
+          frame:
+            kind: single
+          source:
+            kind: asset
+            assetId: ship-sidesa
+          imageType: image
+        depth: 0
+        flipX: false
+        flipY: false
+        width: 32
+        height: 32
+        scaleX: 1
+        scaleY: 1
+        originX: 0.5
+        originY: 0.5
+        visible: true
+        rotationDeg: 0
+      entity-2:
+        x: 496.0721670235986
+        y: 37.74549030133754
+        id: entity-2
+        alpha: 1
+        asset:
+          frame:
+            kind: single
+          source:
+            kind: asset
+            assetId: enemy-b
+          imageType: image
+        depth: 0
+        flipX: false
+        flipY: false
+        width: 32
+        height: 32
+        scaleX: 1
+        scaleY: 1
+        originX: 0.5
+        originY: 0.5
+        visible: true
+        rotationDeg: 0
+      entity-copy:
+        x: 310
+        y: 200
+        id: entity-copy
+        name: Zigzag
+        alpha: 1
+        asset:
+          frame:
+            kind: single
+          source:
+            kind: asset
+            assetId: ship-sidesa
+          imageType: image
+        depth: 0
+        flipX: false
+        flipY: false
+        width: 32
+        height: 32
+        scaleX: 1
+        scaleY: 1
+        originX: 0.5
+        originY: 0.5
+        visible: true
+        rotationDeg: 0
+      entity-copy-copy:
+        x: 490
+        y: 200
+        id: entity-copy-copy
+        name: Figure-8
+        alpha: 1
+        asset:
+          frame:
+            kind: single
+          source:
+            kind: asset
+            assetId: ship-sidesa
+          imageType: image
+        depth: 0
+        flipX: false
+        flipY: false
+        width: 32
+        height: 32
+        scaleX: 1
+        scaleY: 1
+        originX: 0.5
+        originY: 0.5
+        visible: true
+        rotationDeg: 0
+      entity-copy-copy-copy:
+        x: 670
+        y: 200
+        id: entity-copy-copy-copy
+        name: Orbit
+        alpha: 1
+        asset:
+          frame:
+            kind: single
+          source:
+            kind: asset
+            assetId: ship-sidesa
+          imageType: image
+        depth: 0
+        flipX: false
+        flipY: true
+        width: 32
+        height: 32
+        scaleX: 1
+        scaleY: 1
+        originX: 0.5
+        originY: 0.5
+        visible: true
+        rotationDeg: 0
+      entity-copy-copy-copy-copy:
+        x: 220
+        y: 420
+        id: entity-copy-copy-copy-copy
+        name: Spiral
+        alpha: 1
+        asset:
+          frame:
+            kind: single
+          source:
+            kind: asset
+            assetId: ship-sidesa
+          imageType: image
+        depth: 0
+        flipX: false
+        flipY: false
+        width: 32
+        height: 32
+        scaleX: 1
+        scaleY: 1
+        originX: 0.5
+        originY: 0.5
+        visible: true
+        rotationDeg: 0
+      entity-copy-copy-copy-copy-copy:
+        x: 400
+        y: 420
+        id: entity-copy-copy-copy-copy-copy
+        name: Bounce
+        alpha: 1
+        asset:
+          frame:
+            kind: single
+          source:
+            kind: asset
+            assetId: ship-sidesa
+          imageType: image
+        depth: 0
+        flipX: false
+        flipY: false
+        width: 32
+        height: 32
+        scaleX: 1
+        scaleY: 1
+        originX: 0.5
+        originY: 0.5
+        visible: true
+        rotationDeg: 0
+      entity-copy-copy-copy-copy-copy-copy:
+        x: 580
+        y: 420
+        id: entity-copy-copy-copy-copy-copy-copy
+        name: Patrol
+        alpha: 1
+        asset:
+          frame:
+            kind: single
+          source:
+            kind: asset
+            assetId: ship-sidesa
+          imageType: image
+        depth: 0
+        flipX: false
+        flipY: false
+        width: 32
+        height: 32
+        scaleX: 1
+        scaleY: 1
+        originX: 0.5
+        originY: 0.5
+        visible: true
+        rotationDeg: 0
+    triggers: []
+    behaviors: {}
+    conditions: {}
+    attachments:
+      att-1783999069241:
+        id: att-1783999069241
+        name: Intro
+        order: 0
+        params:
+          length: 80
+          velocity: 80
+          amplitude: 30
+          endProgress: 1
+          startProgress: 0.75
+        target:
+          type: entity
+          entityId: entity
+        enabled: true
+        presetId: WavePattern
+      att-1783999069242:
+        id: att-1783999069242
+        order: 1
+        params: {}
+        target:
+          type: entity
+          entityId: entity
+        enabled: true
+        children:
+          - att-1783999069242-2
+        presetId: Repeat
+      att-1783999135105:
+        id: att-1783999135105
+        name: Loop
+        order: 0
+        params: {}
+        target:
+          type: entity
+          entityId: entity-copy
+        enabled: true
+        children:
+          - att-1783999135105-2
+          - att-1783999135105-3
+        presetId: Repeat
+      att-1783999165961:
+        id: att-1783999165961
+        name: Offset
+        order: -1
+        params:
+          dx: -15
+          dy: -30
+        target:
+          type: entity
+          entityId: entity-copy
+        enabled: true
+        presetId: MoveBy
+      att-1783999219417:
+        id: att-1783999219417
+        name: Loop
+        order: 0
+        params: {}
+        target:
+          type: entity
+          entityId: entity-copy-copy
+        enabled: true
+        children:
+          - att-1783999219417-2
+        presetId: Repeat
+      att-1783999279233:
+        id: att-1783999279233
+        order: 0
+        params: {}
+        target:
+          type: entity
+          entityId: entity-copy-copy-copy
+        enabled: true
+        children:
+          - att-1783999279233-2
+        presetId: Repeat
+      att-1783999316649:
+        id: att-1783999316649
+        order: 0
+        params: {}
+        target:
+          type: entity
+          entityId: entity-copy-copy-copy-copy
+        enabled: true
+        children:
+          - att-1783999316649-2
+          - att-1783999316649-3
+        presetId: Repeat
+      att-1783999366297:
+        id: att-1783999366297
+        order: 0
+        params:
+          axis: both
+          velocityX: 100
+          velocityY: 60
+        target:
+          type: entity
+          entityId: entity-copy-copy-copy-copy-copy
+        enabled: true
+        presetId: BouncePattern
+        condition:
+          mode: any
+          type: BoundsHit
+          scope: member-any
+          bounds:
+            maxX: 450
+            maxY: 480
+            minX: 350
+            minY: 360
+          behavior: bounce
+      att-1783999409769:
+        id: att-1783999409769
+        order: 0
+        params:
+          axis: x
+          velocityX: 80
+          velocityY: 0
+        target:
+          type: entity
+          entityId: entity-copy-copy-copy-copy-copy-copy
+        enabled: true
+        presetId: PatrolPattern
+        condition:
+          mode: any
+          type: BoundsHit
+          scope: member-any
+          bounds:
+            maxX: 620
+            maxY: 500
+            minX: 540
+            minY: 400
+          behavior: bounce
+      att-1784065234142:
+        id: att-1784065234142
+        order: 0
+        params:
+          axis: x
+          velocityX: 120
+          velocityY: 0
+        target:
+          type: entity
+          entityId: entity-2
+        enabled: true
+        presetId: PatrolPattern
+        condition:
+          mode: any
+          type: BoundsHit
+          scope: member-any
+          bounds:
+            maxX: 556
+            maxY: 78
+            minX: 436
+            minY: -2
+          behavior: bounce
+      att-1783999069242-2:
+        id: att-1783999069242-2
+        name: Loop body
+        order: 0
+        params:
+          length: 80
+          velocity: 80
+          amplitude: 30
+          endProgress: 1
+          startProgress: 0
+        target:
+          type: entity
+          entityId: entity
+        enabled: true
+        presetId: WavePattern
+        parentAttachmentId: att-1783999069242
+      att-1783999135105-2:
+        id: att-1783999135105-2
+        name: Child 1
+        order: 0
+        params:
+          width: 30
+          height: 15
+          segments: 5
+          velocity: 100
+        target:
+          type: entity
+          entityId: entity-copy
+        enabled: true
+        presetId: ZigzagPattern
+        parentAttachmentId: att-1783999135105
+      att-1783999135105-3:
+        id: att-1783999135105-3
+        name: Child 2
+        order: 1
+        params:
+          width: -30
+          height: -15
+          segments: 5
+          velocity: 100
+        target:
+          type: entity
+          entityId: entity-copy
+        enabled: true
+        presetId: ZigzagPattern
+        parentAttachmentId: att-1783999135105
+      att-1783999219417-2:
+        id: att-1783999219417-2
+        name: Child
+        order: 0
+        params:
+          width: 80
+          height: 60
+          velocity: 100
+        target:
+          type: entity
+          entityId: entity-copy-copy
+        enabled: true
+        presetId: FigureEightPattern
+        parentAttachmentId: att-1783999219417
+      att-1783999279233-2:
+        id: att-1783999279233-2
+        name: Child
+        order: 0
+        params:
+          radius: 50
+          velocity: 100
+          clockwise: true
+          centerMode: home
+        target:
+          type: entity
+          entityId: entity-copy-copy-copy
+        enabled: true
+        presetId: OrbitPattern
+        parentAttachmentId: att-1783999279233
+      att-1783999316649-2:
+        id: att-1783999316649-2
+        name: Child 1
+        order: 0
+        params:
+          velocity: 80
+          direction: outward
+          maxRadius: 60
+          revolutions: 2
+        target:
+          type: entity
+          entityId: entity-copy-copy-copy-copy
+        enabled: true
+        presetId: SpiralPattern
+        parentAttachmentId: att-1783999316649
+      att-1783999316649-3:
+        id: att-1783999316649-3
+        name: Child 2
+        order: 1
+        params:
+          flipY: true
+          velocity: 80
+          direction: inward
+          maxRadius: 60
+          revolutions: 2
+        target:
+          type: entity
+          entityId: entity-copy-copy-copy-copy
+        enabled: true
+        presetId: SpiralPattern
+        parentAttachmentId: att-1783999316649
+    spriteOrder:
+      - entity
+      - entity-copy
+      - entity-copy-copy
+      - entity-copy-copy-copy
+      - entity-copy-copy-copy-copy
+      - entity-copy-copy-copy-copy-copy
+      - entity-copy-copy-copy-copy-copy-copy
+      - entity-2
+    collisionRules: []
+    backgroundLayers: []
+counters: {}
+inputMaps: {}
+renderMode: smooth-2d
+collections: {}
+publishTitle: Pattern Demo
+pixelsPerUnit: 2
+initialSceneId: scene-1
+publishGithubPagesRepo: zoof
