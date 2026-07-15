@@ -502,6 +502,29 @@ scenes:
         originY: 0.5
         visible: true
         rotationDeg: 0
+      entity-3:
+        x: 147.02759269755808
+        y: 475.3250935166474
+        id: entity-3
+        alpha: 1
+        asset:
+          frame:
+            kind: single
+          source:
+            kind: asset
+            assetId: effect-purple
+          imageType: image
+        depth: 0
+        flipX: false
+        flipY: false
+        width: 32
+        height: 32
+        scaleX: 1
+        scaleY: 1
+        originX: 0.5
+        originY: 0.5
+        visible: true
+        rotationDeg: 0
       entity-copy:
         x: 310
         y: 200
@@ -917,6 +940,7 @@ scenes:
       - entity-copy-copy-copy-copy-copy
       - entity-copy-copy-copy-copy-copy-copy
       - entity-2
+      - entity-3
     collisionRules: []
     backgroundLayers: []
 counters: {}
