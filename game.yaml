@@ -5,21 +5,21 @@ audio:
       id: simulacra-chosic-com
       source:
         kind: path
-        path: assets/demo-pack/audio/Simulacra-chosic.com_.mp3?pf_publish=publish-mrmyxw0u-z90ngb4q
+        path: assets/demo-pack/audio/Simulacra-chosic.com_.mp3?pf_publish=publish-mrmyznjx-r9dpvu5i
         mimeType: audio/mpeg
         originalName: Simulacra-chosic.com_.mp3
     sb-indreams-chosic-com:
       id: sb-indreams-chosic-com
       source:
         kind: path
-        path: assets/demo-pack/audio/sb_indreams(chosic.com).mp3?pf_publish=publish-mrmyxw0u-z90ngb4q
+        path: assets/demo-pack/audio/sb_indreams(chosic.com).mp3?pf_publish=publish-mrmyznjx-r9dpvu5i
         mimeType: audio/mpeg
         originalName: sb_indreams(chosic.com).mp3
     punch-deck-the-soul-crushing-monotony-of-isolation-instrumental-mix-chosic-com:
       id: punch-deck-the-soul-crushing-monotony-of-isolation-instrumental-mix-chosic-com
       source:
         kind: path
-        path: assets/demo-pack/audio/punch-deck-the-soul-crushing-monotony-of-isolation-instrumental-mix(chosic.com).mp3?pf_publish=publish-mrmyxw0u-z90ngb4q
+        path: assets/demo-pack/audio/punch-deck-the-soul-crushing-monotony-of-isolation-instrumental-mix(chosic.com).mp3?pf_publish=publish-mrmyznjx-r9dpvu5i
         mimeType: audio/mpeg
         originalName: punch-deck-the-soul-crushing-monotony-of-isolation-instrumental-mix(chosic.com).mp3
 title: Pattern Demo
@@ -33,7 +33,7 @@ assets:
       height: 64
       source:
         kind: path
-        path: assets/demo-pack/images/enemy_A.png?pf_publish=publish-mrmyxw0u-z90ngb4q
+        path: assets/demo-pack/images/enemy_A.png?pf_publish=publish-mrmyznjx-r9dpvu5i
         mimeType: image/png
         originalName: enemy_A.png
     enemy-b:
@@ -43,7 +43,7 @@ assets:
       height: 64
       source:
         kind: path
-        path: assets/demo-pack/images/enemy_B.png?pf_publish=publish-mrmyxw0u-z90ngb4q
+        path: assets/demo-pack/images/enemy_B.png?pf_publish=publish-mrmyznjx-r9dpvu5i
         mimeType: image/png
         originalName: enemy_B.png
     enemy-c:
@@ -53,7 +53,7 @@ assets:
       height: 64
       source:
         kind: path
-        path: assets/demo-pack/images/enemy_C.png?pf_publish=publish-mrmyxw0u-z90ngb4q
+        path: assets/demo-pack/images/enemy_C.png?pf_publish=publish-mrmyznjx-r9dpvu5i
         mimeType: image/png
         originalName: enemy_C.png
     enemy-d:
@@ -63,7 +63,7 @@ assets:
       height: 64
       source:
         kind: path
-        path: assets/demo-pack/images/enemy_D.png?pf_publish=publish-mrmyxw0u-z90ngb4q
+        path: assets/demo-pack/images/enemy_D.png?pf_publish=publish-mrmyznjx-r9dpvu5i
         mimeType: image/png
         originalName: enemy_D.png
     enemy-e:
@@ -73,7 +73,7 @@ assets:
       height: 64
       source:
         kind: path
-        path: assets/demo-pack/images/enemy_E.png?pf_publish=publish-mrmyxw0u-z90ngb4q
+        path: assets/demo-pack/images/enemy_E.png?pf_publish=publish-mrmyznjx-r9dpvu5i
         mimeType: image/png
         originalName: enemy_E.png
     station-b:
@@ -83,7 +83,7 @@ assets:
       height: 64
       source:
         kind: path
-        path: assets/demo-pack/images/station_B.png?pf_publish=publish-mrmyxw0u-z90ngb4q
+        path: assets/demo-pack/images/station_B.png?pf_publish=publish-mrmyznjx-r9dpvu5i
         mimeType: image/png
         originalName: station_B.png
     station-c:
@@ -93,7 +93,7 @@ assets:
       height: 64
       source:
         kind: path
-        path: assets/demo-pack/images/station_C.png?pf_publish=publish-mrmyxw0u-z90ngb4q
+        path: assets/demo-pack/images/station_C.png?pf_publish=publish-mrmyznjx-r9dpvu5i
         mimeType: image/png
         originalName: station_C.png
     satellite-a:
@@ -103,7 +103,7 @@ assets:
       height: 64
       source:
         kind: path
-        path: assets/demo-pack/images/satellite_A.png?pf_publish=publish-mrmyxw0u-z90ngb4q
+        path: assets/demo-pack/images/satellite_A.png?pf_publish=publish-mrmyznjx-r9dpvu5i
         mimeType: image/png
         originalName: satellite_A.png
     satellite-c:
@@ -113,7 +113,7 @@ assets:
       height: 64
       source:
         kind: path
-        path: assets/demo-pack/images/satellite_C.png?pf_publish=publish-mrmyxw0u-z90ngb4q
+        path: assets/demo-pack/images/satellite_C.png?pf_publish=publish-mrmyznjx-r9dpvu5i
         mimeType: image/png
         originalName: satellite_C.png
     satellite-d:
@@ -123,7 +123,7 @@ assets:
       height: 64
       source:
         kind: path
-        path: assets/demo-pack/images/satellite_D.png?pf_publish=publish-mrmyxw0u-z90ngb4q
+        path: assets/demo-pack/images/satellite_D.png?pf_publish=publish-mrmyznjx-r9dpvu5i
         mimeType: image/png
         originalName: satellite_D.png
     ship-sidesa:
@@ -133,7 +133,7 @@ assets:
       height: 64
       source:
         kind: path
-        path: assets/demo-pack/images/ship_sidesA.png?pf_publish=publish-mrmyxw0u-z90ngb4q
+        path: assets/demo-pack/images/ship_sidesA.png?pf_publish=publish-mrmyznjx-r9dpvu5i
         mimeType: image/png
         originalName: ship_sidesA.png
     ship-sidesb:
@@ -143,7 +143,7 @@ assets:
       height: 64
       source:
         kind: path
-        path: assets/demo-pack/images/ship_sidesB.png?pf_publish=publish-mrmyxw0u-z90ngb4q
+        path: assets/demo-pack/images/ship_sidesB.png?pf_publish=publish-mrmyznjx-r9dpvu5i
         mimeType: image/png
         originalName: ship_sidesB.png
     ship-sidesc:
@@ -153,7 +153,7 @@ assets:
       height: 64
       source:
         kind: path
-        path: assets/demo-pack/images/ship_sidesC.png?pf_publish=publish-mrmyxw0u-z90ngb4q
+        path: assets/demo-pack/images/ship_sidesC.png?pf_publish=publish-mrmyznjx-r9dpvu5i
         mimeType: image/png
         originalName: ship_sidesC.png
     ship-sidesd:
@@ -163,7 +163,7 @@ assets:
       height: 64
       source:
         kind: path
-        path: assets/demo-pack/images/ship_sidesD.png?pf_publish=publish-mrmyxw0u-z90ngb4q
+        path: assets/demo-pack/images/ship_sidesD.png?pf_publish=publish-mrmyznjx-r9dpvu5i
         mimeType: image/png
         originalName: ship_sidesD.png
     meteor-large:
@@ -173,7 +173,7 @@ assets:
       height: 64
       source:
         kind: path
-        path: assets/demo-pack/images/meteor_large.png?pf_publish=publish-mrmyxw0u-z90ngb4q
+        path: assets/demo-pack/images/meteor_large.png?pf_publish=publish-mrmyznjx-r9dpvu5i
         mimeType: image/png
         originalName: meteor_large.png
     meteor-small:
@@ -183,7 +183,7 @@ assets:
       height: 64
       source:
         kind: path
-        path: assets/demo-pack/images/meteor_small.png?pf_publish=publish-mrmyxw0u-z90ngb4q
+        path: assets/demo-pack/images/meteor_small.png?pf_publish=publish-mrmyznjx-r9dpvu5i
         mimeType: image/png
         originalName: meteor_small.png
     effect-purple:
@@ -193,7 +193,7 @@ assets:
       height: 64
       source:
         kind: path
-        path: assets/demo-pack/images/effect_purple.png?pf_publish=publish-mrmyxw0u-z90ngb4q
+        path: assets/demo-pack/images/effect_purple.png?pf_publish=publish-mrmyznjx-r9dpvu5i
         mimeType: image/png
         originalName: effect_purple.png
     effect-yellow:
@@ -203,7 +203,7 @@ assets:
       height: 64
       source:
         kind: path
-        path: assets/demo-pack/images/effect_yellow.png?pf_publish=publish-mrmyxw0u-z90ngb4q
+        path: assets/demo-pack/images/effect_yellow.png?pf_publish=publish-mrmyznjx-r9dpvu5i
         mimeType: image/png
         originalName: effect_yellow.png
     icon-pluslarge:
@@ -213,7 +213,7 @@ assets:
       height: 64
       source:
         kind: path
-        path: assets/demo-pack/images/icon_plusLarge.png?pf_publish=publish-mrmyxw0u-z90ngb4q
+        path: assets/demo-pack/images/icon_plusLarge.png?pf_publish=publish-mrmyznjx-r9dpvu5i
         mimeType: image/png
         originalName: icon_plusLarge.png
     icon-plussmall:
@@ -223,7 +223,7 @@ assets:
       height: 64
       source:
         kind: path
-        path: assets/demo-pack/images/icon_plusSmall.png?pf_publish=publish-mrmyxw0u-z90ngb4q
+        path: assets/demo-pack/images/icon_plusSmall.png?pf_publish=publish-mrmyznjx-r9dpvu5i
         mimeType: image/png
         originalName: icon_plusSmall.png
     meteor-squarelarge:
@@ -233,7 +233,7 @@ assets:
       height: 64
       source:
         kind: path
-        path: assets/demo-pack/images/meteor_squareLarge.png?pf_publish=publish-mrmyxw0u-z90ngb4q
+        path: assets/demo-pack/images/meteor_squareLarge.png?pf_publish=publish-mrmyznjx-r9dpvu5i
         mimeType: image/png
         originalName: meteor_squareLarge.png
     meteor-squaresmall:
@@ -243,7 +243,7 @@ assets:
       height: 64
       source:
         kind: path
-        path: assets/demo-pack/images/meteor_squareSmall.png?pf_publish=publish-mrmyxw0u-z90ngb4q
+        path: assets/demo-pack/images/meteor_squareSmall.png?pf_publish=publish-mrmyznjx-r9dpvu5i
         mimeType: image/png
         originalName: meteor_squareSmall.png
     meteor-detailedlarge:
@@ -253,7 +253,7 @@ assets:
       height: 64
       source:
         kind: path
-        path: assets/demo-pack/images/meteor_detailedLarge.png?pf_publish=publish-mrmyxw0u-z90ngb4q
+        path: assets/demo-pack/images/meteor_detailedLarge.png?pf_publish=publish-mrmyznjx-r9dpvu5i
         mimeType: image/png
         originalName: meteor_detailedLarge.png
     meteor-detailedsmall:
@@ -263,7 +263,7 @@ assets:
       height: 64
       source:
         kind: path
-        path: assets/demo-pack/images/meteor_detailedSmall.png?pf_publish=publish-mrmyxw0u-z90ngb4q
+        path: assets/demo-pack/images/meteor_detailedSmall.png?pf_publish=publish-mrmyznjx-r9dpvu5i
         mimeType: image/png
         originalName: meteor_detailedSmall.png
     meteor-squaredetailedlarge:
@@ -273,7 +273,7 @@ assets:
       height: 64
       source:
         kind: path
-        path: assets/demo-pack/images/meteor_squareDetailedLarge.png?pf_publish=publish-mrmyxw0u-z90ngb4q
+        path: assets/demo-pack/images/meteor_squareDetailedLarge.png?pf_publish=publish-mrmyznjx-r9dpvu5i
         mimeType: image/png
         originalName: meteor_squareDetailedLarge.png
     meteor-squaredetailedsmall:
@@ -283,7 +283,7 @@ assets:
       height: 64
       source:
         kind: path
-        path: assets/demo-pack/images/meteor_squareDetailedSmall.png?pf_publish=publish-mrmyxw0u-z90ngb4q
+        path: assets/demo-pack/images/meteor_squareDetailedSmall.png?pf_publish=publish-mrmyznjx-r9dpvu5i
         mimeType: image/png
         originalName: meteor_squareDetailedSmall.png
   spriteSheets: {}
@@ -503,8 +503,8 @@ scenes:
         visible: true
         rotationDeg: 0
       entity-3:
-        x: 509.0275926975581
-        y: 521.3250935166475
+        x: 695.027592697558
+        y: 301.3250935166475
         id: entity-3
         alpha: 1
         asset:
