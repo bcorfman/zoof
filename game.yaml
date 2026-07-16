@@ -294,7 +294,7 @@ scenes:
       loop: true
       fadeMs: 0
       volume: 0.3
-      assetId: sb-indreams-chosic-com
+      assetId: simulacra-chosic-com
     world:
       width: 800
       height: 600
@@ -467,6 +467,29 @@ scenes:
           source:
             kind: asset
             assetId: ship-sidesa
+          imageType: image
+        depth: 0
+        flipX: false
+        flipY: false
+        width: 32
+        height: 32
+        scaleX: 1
+        scaleY: 1
+        originX: 0.5
+        originY: 0.5
+        visible: true
+        rotationDeg: 0
+      entity-2:
+        x: 375.69000544034736
+        y: 46.0257448017728
+        id: entity-2
+        alpha: 1
+        asset:
+          frame:
+            kind: single
+          source:
+            kind: asset
+            assetId: enemy-c
           imageType: image
         depth: 0
         flipX: false
@@ -871,13 +894,14 @@ scenes:
       - entity-copy-copy-copy-copy
       - entity-copy-copy-copy-copy-copy
       - entity-copy-copy-copy-copy-copy-copy
+      - entity-2
     collisionRules: []
     backgroundLayers: []
 counters: {}
 inputMaps: {}
 renderMode: smooth-2d
 collections: {}
-publishTitle: Pattern Demo Demo
+publishTitle: Pattern Demo 22
 pixelsPerUnit: 2
 initialSceneId: scene-1
 publishGithubPagesRepo: zoof
