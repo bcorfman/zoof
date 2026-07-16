@@ -1,4 +1,4 @@
-id: project-mr884746-auz8tq
+id: project-mrmuap1a-nbr23j
 audio:
   sounds:
     simulacra-chosic-com:
@@ -22,7 +22,7 @@ audio:
         path: assets/demo-pack/audio/punch-deck-the-soul-crushing-monotony-of-isolation-instrumental-mix(chosic.com).mp3
         mimeType: audio/mpeg
         originalName: punch-deck-the-soul-crushing-monotony-of-isolation-instrumental-mix(chosic.com).mp3
-title: Pattern Demo
+title: Pattern Demo Demo
 assets:
   fonts: {}
   images:
@@ -294,7 +294,7 @@ scenes:
       loop: true
       fadeMs: 0
       volume: 0.3
-      assetId: punch-deck-the-soul-crushing-monotony-of-isolation-instrumental-mix-chosic-com
+      assetId: sb-indreams-chosic-com
     world:
       width: 800
       height: 600
@@ -479,52 +479,6 @@ scenes:
         originY: 0.5
         visible: true
         rotationDeg: 0
-      entity-2:
-        x: 496.0721670235986
-        y: 37.74549030133754
-        id: entity-2
-        alpha: 1
-        asset:
-          frame:
-            kind: single
-          source:
-            kind: asset
-            assetId: enemy-b
-          imageType: image
-        depth: 0
-        flipX: false
-        flipY: false
-        width: 32
-        height: 32
-        scaleX: 1
-        scaleY: 1
-        originX: 0.5
-        originY: 0.5
-        visible: true
-        rotationDeg: 0
-      entity-3:
-        x: 147.02759269755808
-        y: 475.3250935166474
-        id: entity-3
-        alpha: 1
-        asset:
-          frame:
-            kind: single
-          source:
-            kind: asset
-            assetId: effect-purple
-          imageType: image
-        depth: 0
-        flipX: false
-        flipY: false
-        width: 32
-        height: 32
-        scaleX: 1
-        scaleY: 1
-        originX: 0.5
-        originY: 0.5
-        visible: true
-        rotationDeg: 0
       entity-copy:
         x: 310
         y: 200
@@ -673,8 +627,8 @@ scenes:
     behaviors: {}
     conditions: {}
     attachments:
-      att-1783999069241:
-        id: att-1783999069241
+      att-1784166727078:
+        id: att-1784166727078
         name: Intro
         order: 0
         params:
@@ -688,19 +642,8 @@ scenes:
           entityId: entity
         enabled: true
         presetId: WavePattern
-      att-1783999069242:
-        id: att-1783999069242
-        order: 1
-        params: {}
-        target:
-          type: entity
-          entityId: entity
-        enabled: true
-        children:
-          - att-1783999069242-2
-        presetId: Repeat
-      att-1783999135105:
-        id: att-1783999135105
+      att-1784166818302:
+        id: att-1784166818302
         name: Loop
         order: 0
         params: {}
@@ -709,11 +652,11 @@ scenes:
           entityId: entity-copy
         enabled: true
         children:
-          - att-1783999135105-2
-          - att-1783999135105-3
+          - att-1784166818302-2
+          - att-1784166818302-3
         presetId: Repeat
-      att-1783999165961:
-        id: att-1783999165961
+      att-1784166857221:
+        id: att-1784166857221
         name: Offset
         order: -1
         params:
@@ -724,8 +667,8 @@ scenes:
           entityId: entity-copy
         enabled: true
         presetId: MoveBy
-      att-1783999219417:
-        id: att-1783999219417
+      att-1784166910253:
+        id: att-1784166910253
         name: Loop
         order: 0
         params: {}
@@ -734,10 +677,10 @@ scenes:
           entityId: entity-copy-copy
         enabled: true
         children:
-          - att-1783999219417-2
+          - att-1784166910253-2
         presetId: Repeat
-      att-1783999279233:
-        id: att-1783999279233
+      att-1784166965773:
+        id: att-1784166965773
         order: 0
         params: {}
         target:
@@ -745,10 +688,10 @@ scenes:
           entityId: entity-copy-copy-copy
         enabled: true
         children:
-          - att-1783999279233-2
+          - att-1784166965773-2
         presetId: Repeat
-      att-1783999316649:
-        id: att-1783999316649
+      att-1784167022837:
+        id: att-1784167022837
         order: 0
         params: {}
         target:
@@ -756,11 +699,11 @@ scenes:
           entityId: entity-copy-copy-copy-copy
         enabled: true
         children:
-          - att-1783999316649-2
-          - att-1783999316649-3
+          - att-1784167022837-2
+          - att-1784167022837-3
         presetId: Repeat
-      att-1783999366297:
-        id: att-1783999366297
+      att-1784167067645:
+        id: att-1784167067645
         order: 0
         params:
           axis: both
@@ -781,8 +724,8 @@ scenes:
             minX: 350
             minY: 360
           behavior: bounce
-      att-1783999409769:
-        id: att-1783999409769
+      att-1784167110477:
+        id: att-1784167110477
         order: 0
         params:
           axis: x
@@ -803,30 +746,19 @@ scenes:
             minX: 540
             minY: 400
           behavior: bounce
-      att-1784065234142:
-        id: att-1784065234142
-        order: 0
-        params:
-          axis: x
-          velocityX: 120
-          velocityY: 0
+      att-1784166727078-2:
+        id: att-1784166727078-2
+        order: 1
+        params: {}
         target:
           type: entity
-          entityId: entity-2
+          entityId: entity
         enabled: true
-        presetId: PatrolPattern
-        condition:
-          mode: any
-          type: BoundsHit
-          scope: member-any
-          bounds:
-            maxX: 556
-            maxY: 78
-            minX: 436
-            minY: -2
-          behavior: bounce
-      att-1783999069242-2:
-        id: att-1783999069242-2
+        children:
+          - att-1784166727078-3
+        presetId: Repeat
+      att-1784166727078-3:
+        id: att-1784166727078-3
         name: Loop body
         order: 0
         params:
@@ -840,9 +772,9 @@ scenes:
           entityId: entity
         enabled: true
         presetId: WavePattern
-        parentAttachmentId: att-1783999069242
-      att-1783999135105-2:
-        id: att-1783999135105-2
+        parentAttachmentId: att-1784166727078-2
+      att-1784166818302-2:
+        id: att-1784166818302-2
         name: Child 1
         order: 0
         params:
@@ -855,9 +787,9 @@ scenes:
           entityId: entity-copy
         enabled: true
         presetId: ZigzagPattern
-        parentAttachmentId: att-1783999135105
-      att-1783999135105-3:
-        id: att-1783999135105-3
+        parentAttachmentId: att-1784166818302
+      att-1784166818302-3:
+        id: att-1784166818302-3
         name: Child 2
         order: 1
         params:
@@ -870,9 +802,9 @@ scenes:
           entityId: entity-copy
         enabled: true
         presetId: ZigzagPattern
-        parentAttachmentId: att-1783999135105
-      att-1783999219417-2:
-        id: att-1783999219417-2
+        parentAttachmentId: att-1784166818302
+      att-1784166910253-2:
+        id: att-1784166910253-2
         name: Child
         order: 0
         params:
@@ -884,9 +816,9 @@ scenes:
           entityId: entity-copy-copy
         enabled: true
         presetId: FigureEightPattern
-        parentAttachmentId: att-1783999219417
-      att-1783999279233-2:
-        id: att-1783999279233-2
+        parentAttachmentId: att-1784166910253
+      att-1784166965773-2:
+        id: att-1784166965773-2
         name: Child
         order: 0
         params:
@@ -899,9 +831,9 @@ scenes:
           entityId: entity-copy-copy-copy
         enabled: true
         presetId: OrbitPattern
-        parentAttachmentId: att-1783999279233
-      att-1783999316649-2:
-        id: att-1783999316649-2
+        parentAttachmentId: att-1784166965773
+      att-1784167022837-2:
+        id: att-1784167022837-2
         name: Child 1
         order: 0
         params:
@@ -914,9 +846,9 @@ scenes:
           entityId: entity-copy-copy-copy-copy
         enabled: true
         presetId: SpiralPattern
-        parentAttachmentId: att-1783999316649
-      att-1783999316649-3:
-        id: att-1783999316649-3
+        parentAttachmentId: att-1784167022837
+      att-1784167022837-3:
+        id: att-1784167022837-3
         name: Child 2
         order: 1
         params:
@@ -930,7 +862,7 @@ scenes:
           entityId: entity-copy-copy-copy-copy
         enabled: true
         presetId: SpiralPattern
-        parentAttachmentId: att-1783999316649
+        parentAttachmentId: att-1784167022837
     spriteOrder:
       - entity
       - entity-copy
@@ -939,15 +871,13 @@ scenes:
       - entity-copy-copy-copy-copy
       - entity-copy-copy-copy-copy-copy
       - entity-copy-copy-copy-copy-copy-copy
-      - entity-2
-      - entity-3
     collisionRules: []
     backgroundLayers: []
 counters: {}
 inputMaps: {}
 renderMode: smooth-2d
 collections: {}
-publishTitle: Pattern Demo3
+publishTitle: Pattern Demo Demo
 pixelsPerUnit: 2
 initialSceneId: scene-1
 publishGithubPagesRepo: zoof
